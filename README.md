@@ -34,4 +34,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+### patika dev linki
+
 [patika.dev linki](https://app.patika.dev/stigma) 
